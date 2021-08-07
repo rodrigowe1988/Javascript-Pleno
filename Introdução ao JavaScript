@@ -1,0 +1,34 @@
+## Visual Studio Code
+
+O Visual Studio Code é um dos principais editores de código utilizados atualmente. É open source, gratuito e mantido por colaboradores da Microsoft. Quanto ao 
+JavaScript, possui excelentes funcionalidades que podem inclusive ser estendidas através de seus plugins e extensões.
+Dentre suas diversas funcionalidades destacam-se o excelente suporte ao Git, a portabilidade – com versões para Windows, Linux e MacOS – e a presença de um 
+terminal de comandos embutido na ferramenta.
+
+Esta será, portanto, a ferramenta de edição de código HTML, CSS e JavaScript utilizada no decorrer de toda a disciplina.
+Para mais detalhes sobre o Visual Studio Code verifique as videoaulas deste capítulo, onde são realizadas a instalação do programa, configuração inicial e 
+também a instalação de algumas extensões.
+
+## Node.js
+
+O Node.js pode ser denominado com um ambiente de execução (runtime) de código JavaScript com suporte a Windows, Linux e MacOS. Dentre suas diversas 
+funcionalidades, destacam-se:
+
+* Criação e execução de scripts tanto em computadores pessoais quanto servidores.
+*  Servidor web e/ou API com o apoio de bibliotecas como o express.js. 
+* Conexão e integração com bancos de dados.
+
+Graças ao Node.js é possível executar código JavaScript com acesso aos arquivos e recursos do computador e servidores – como bancos de dados por exemplo – 
+ao contrário da web onde esse acesso direto é proibido por questões de segurança. Assim, pode-se concluir que o JavaScript, através do Node.js, pode atuar 
+no Back End assim como outras linguagens de programação como o Java, PHP e C#.
+
+Esta possibilidade, portanto, de se trabalhar tanto no Front End quanto no Back End com a mesma linguagem de programação — JavaScript — faz com que a curva
+de aprendizado do desenvolvedor seja cada vez menor. Muito código de regras de negócio pode ser reaproveitado, por exemplo.
+Para mais detalhes sobre o Node.js verifique as videoaulas deste capítulo, onde são realizadas a instalação do programa e testes iniciais. Nesta disciplina, 
+o Node.js será utilizado como requisito da biblioteca live-server, que será explicada detalhadamente mais adiante nesta apostila.
+
+A Figura abaixo mostra um teste para verificar se o Node.js está instalado corretamente (comando "node -v", que verifica a versão instalada do Node.js) e 
+também exemplos de algumas instruções JavaScript no ambiente de execução de comandos do Node.js, mais conhecido como REPL (Read-Eval-Print-Loop), onde os 
+comandos são interpretados indefinidamente até que o usuário force o cancelamento (Ctrl + C no Windows). A figura abaixo ilustra alguns comandos no modo REPL 
+do Node.js.
+
